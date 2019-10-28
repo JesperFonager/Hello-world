@@ -1,0 +1,7 @@
+Type: WINDOWS_CMD
+Name: SAT.TESTJOB2
+Login: LOGIN.NEW.1
+Agentgrp: NORDEA.AGENTGRP.IMPL
+Directory: c:\scripts
+Program: test1.bat
+Parameter: This testjob2
